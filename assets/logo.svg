@@ -1,0 +1,11 @@
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BG Masters logo mark">
+  <path d="M10 56 h44 a2 2 0 0 1 2 2 v3 a2 2 0 0 1 -2 2 H14 a4 4 0 0 1 -4 -4 Z" fill="#1A2E4A"/>
+  <rect x="10" y="50" width="46" height="5" rx="1.5" fill="#1A2E4A"/>
+  <rect x="13" y="40" width="6"  height="9"  rx="1.2" fill="#DD8133"/>
+  <rect x="22" y="33" width="6"  height="16" rx="1.2" fill="#E9A23B"/>
+  <path d="M29 22 L43 12 L57 22 Z" fill="none" stroke="#2FA877" stroke-width="3.2" stroke-linejoin="round"/>
+  <rect x="31" y="24" width="24" height="4" rx="1.2" fill="#2FA877"/>
+  <rect x="35"   y="30" width="3" height="18" rx="1.2" fill="#2FA877"/>
+  <rect x="41.5" y="30" width="3" height="18" rx="1.2" fill="#2FA877"/>
+  <rect x="48"   y="30" width="3" height="18" rx="1.2" fill="#2FA877"/>
+</svg>
